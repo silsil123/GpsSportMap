@@ -13,22 +13,22 @@ All the session data is saved to a database and sent to a backend Web-API/Rest s
 #### ***Note: UI is WIP***
 
 ### Log in view
-[SignIn](/screenshots/SignIn.png)
+![SignIn](/screenshots/SignIn.png)
 
 ### Session view
-[Session](/screenshots/Session.png)
+![Session](/screenshots/Session.png)
 
 ### Main map view
-[MainMap](/screenshots/MainMap.png)
+![MainMap](/screenshots/MainMap.png)
 
 ### Tracking view
-[Tracking](/screenshots/TrackingCpWp.png)
+![Tracking](/screenshots/TrackingCpWp.png)
 
 ### Horizontal view
-[Sideview](/screenshots/Sideview.png)
+![Sideview](/screenshots/Sideview.png)
 
 ### Notification view
-[Notification](/screenshots/Notification.png)
+![Notification](/screenshots/Notification.png)
 
 ### Lock screen view
-[LockScreen](/screenshots/lockscreen.png)
+![LockScreen](/screenshots/lockscreen.png)
